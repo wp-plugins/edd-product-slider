@@ -15,9 +15,9 @@ This plugin will add a responsive product slider to your Easy Digital Downloads 
 This plugin will add a responsive product slider to your Easy Digital Downloads site. Highly customizeable. Touch device friendly. It will help you to raise your conversion rate.
 
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/easy-digital-downloads-slider-plugin/ "Pro Version")
-*   [View a live demo &raquo;](http://demo.wpbean.com/edd/edd-product-slider/)
+*   [View a live demo &raquo;](http://mangotheme.com/edd/edd-product-slider/)
 *   [Support &raquo;](http://wpbean.com/support/)
-*   [Wpbean is available for hire &raquo;](http://wpbean.com/contact-us/ "Wpbean is available for hire")
+*   [Documentation &raquo;](http://wpbean.com/easy-digital-downloads-slider-plugin-documentation/)
 
 Plugin Features
 
